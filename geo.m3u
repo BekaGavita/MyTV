@@ -1,0 +1,330 @@
+#EXTM3U generation-date="2024.07.04 09:27:16 MSK" url-tvg="http://epg.team/tvteam.3.1.xml"
+#EXTINF:0 tvg-name="GE: 1 Arkhi HD" tvg-logo="http://troya.tv/images/chIcons/1593.png" tvg-rec="3", GE: 1 Arkhi HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1593/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1VwTvdaJkTWFvvI_fr3DLi6yDVptAWl6hArhQflu4p9A
+#EXTINF:0 tvg-name="GE: Ajara HD" tvg-logo="http://troya.tv/images/chIcons/1205.png" tvg-rec="3", GE: Ajara HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1205/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YndmMyQe4uq1svUBTOwA4X1GzMxM0_etpsOyFKbTZxr
+#EXTINF:0 tvg-name="GE: Alt Info" tvg-logo="http://troya.tv/images/chIcons/2057.png" tvg-rec="0", GE: Alt Info
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2057/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QphAZTvE_M0f8sfAhjWEFKhUADEpAhr5IavJSKcKmzG
+#EXTINF:0 tvg-name="GE: Agrotv HD" tvg-logo="http://troya.tv/images/chIcons/1615.png" tvg-rec="3", GE: Agrotv HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1615/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1WGd8tcfxz683QMqkXtj8qQRT0QfSY8M7HaV1h8DiZMJ
+#EXTINF:0 tvg-name="GE: Artarea" tvg-logo="http://troya.tv/images/chIcons/2242.png" tvg-rec="0", GE: Artarea
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2242/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1aoKbKcri3W7gYdk6X3q_JPWD4LalLe54gsZZwAClO09
+#EXTINF:0 tvg-name="GE: Batumi TV" tvg-logo="http://troya.tv/images/chIcons/1602.png" tvg-rec="3", GE: Batumi TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1602/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1eASrvxdAFjWEDWBnszGzJCItLx7Y-djC0sYw1auTp5b
+#EXTINF:0 tvg-name="GE: Batumi 2" tvg-logo="http://troya.tv/images/chIcons/1610.png" tvg-rec="0", GE: Batumi 2
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1610/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1X8-KkD5YDzJ2mX0iLyuzBRqb1HEZ-v0sqdYRiPkLgDS
+#EXTINF:0 tvg-name="GE: BastiBuBu" tvg-logo="http://troya.tv/images/chIcons/1590.png" tvg-rec="0", GE: BastiBuBu
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1590/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1T4PQXtGrXfFlOUu7j6FMc0acncrRC7NWsHkDXyd_Mog
+#EXTINF:0 tvg-name="GE: BMG" tvg-logo="http://troya.tv/images/chIcons/2241.png" tvg-rec="0", GE: BMG
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2241/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XE0Dz2724CIv-OkItDtFcDbpP7MKI8I2pAQJ3QKjVxk
+#EXTINF:0 tvg-name="GE: Comedy Arkhi" tvg-logo="http://troya.tv/images/chIcons/1588.png" tvg-rec="3", GE: Comedy Arkhi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1588/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1UnxLCuPos0bp8UWGaWcfQHgBgTA24lvmmBxsk3C0gw5
+#EXTINF:0 tvg-name="GE: Channel Five" tvg-logo="http://troya.tv/images/chIcons/2044.png" tvg-rec="0", GE: Channel Five
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2044/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1TtAhvyu1CsJSeRINWiRxL-iSS6RmBKA3qlqxB0ELfR-
+#EXTINF:0 tvg-name="GE: Chadraki TV" tvg-logo="http://troya.tv/images/chIcons/2045.png" tvg-rec="0", GE: Chadraki TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2045/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1foJvvDj9gQWEtNDGs1rES9Zry0EbMUOFVoyPRlHmp3v
+#EXTINF:0 tvg-name="GE: Dardimandi" tvg-logo="http://troya.tv/images/chIcons/2040.png" tvg-rec="0", GE: Dardimandi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2040/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1bOwScp7inWZw0gNNuhbi7KnS_G7kb86hQludy_MwtQf
+#EXTINF:0 tvg-name="GE: Dia TV" tvg-logo="http://troya.tv/images/chIcons/2042.png" tvg-rec="0", GE: Dia TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2042/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1eKz-xOhyLYR_jtogik5l5ipzObkZRSyMQWaUhlhGr99
+#EXTINF:0 tvg-name="GE: Imedi" tvg-logo="http://troya.tv/images/chIcons/1202.png" tvg-rec="3", GE: Imedi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1202/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QdBbuBX_Wo2HxcmF-pJhV-DrV_pA5rF3vTJgQKeQMH1
+#EXTINF:0 tvg-name="GE: EuroNews" tvg-logo="http://troya.tv/images/chIcons/1612.png" tvg-rec="3", GE: EuroNews
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1612/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QuZvgfvQAHzO6oJ-FMAfhRPCV9CJKu5YSK4tFJsc4-Q
+#EXTINF:0 tvg-name="GE: Enkibenki" tvg-logo="http://troya.tv/images/chIcons/1591.png" tvg-rec="3", GE: Enkibenki
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1591/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1eibkxkNK3efkeR2tl1cETLYREhkSSJfmBsK_JoPRBVH
+#EXTINF:0 tvg-name="GE: Ertsulovneba" tvg-logo="http://troya.tv/images/chIcons/1595.png" tvg-rec="3", GE: Ertsulovneba
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1595/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1WaYJW-t2jPGmupYDqwC36z-89SFbSI-JcygzcmAualq
+#EXTINF:0 tvg-name="GE: Egrisi TV" tvg-logo="http://troya.tv/images/chIcons/2047.png" tvg-rec="0", GE: Egrisi TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2047/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1dK6l3EmBSi42II25V2SmxUiWf7x0pqFzX2737_vM9v5
+#EXTINF:0 tvg-name="GE: Formula HD" tvg-logo="http://troya.tv/images/chIcons/1211.png" tvg-rec="3", GE: Formula HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1211/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ZKC3RFiol4qd8HeXMQfuTAjLKETncX5mH-LdfqlaczG
+#EXTINF:0 tvg-name="GE: Guriatv HD" tvg-logo="http://troya.tv/images/chIcons/1597.png" tvg-rec="3", GE: Guriatv HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1597/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XNlyWuqGPhVa7kOG8yc02RIt8JMwCYZWEk1SJV1SBwN
+#EXTINF:0 tvg-name="GE: Georgian Times" tvg-logo="http://troya.tv/images/chIcons/1616.png" tvg-rec="0", GE: Georgian Times
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1616/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Qzlbuxki5GUPcVOe1UJFllTxNx2YEDwgKrXn_FFLT_s
+#EXTINF:0 tvg-name="GE: GDS" tvg-logo="http://troya.tv/images/chIcons/1594.png" tvg-rec="3", GE: GDS
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1594/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1f4KT1zhvzGDAmgJvaK26pOCeH4cZR1p0zSEX4uxBk_l
+#EXTINF:0 tvg-name="GE: Girchi TV HD" tvg-logo="http://troya.tv/images/chIcons/1600.png" tvg-rec="0", GE: Girchi TV HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1600/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1WrgIYZS5NoMQMskKkPwK5d8HlgyqYivpwT0xjBwEI_b
+#EXTINF:0 tvg-name="GE: Gurjaani" tvg-logo="http://troya.tv/images/chIcons/2051.png" tvg-rec="0", GE: Gurjaani
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2051/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1byN2yHMkR93rd6RmQ-Dp6gx8mXdjuVkZy5Hfi-FO5uA
+#EXTINF:0 tvg-name="GE: Green TV" tvg-logo="http://troya.tv/images/chIcons/2238.png" tvg-rec="0", GE: Green TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2238/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1SWr530bbg33Fld_eMp0eijqd5ICpDLxgouM_JADM-D6
+#EXTINF:0 tvg-name="GE: Eri Media HD" tvg-logo="http://troya.tv/images/chIcons/2041.png" tvg-rec="0", GE: Eri Media HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2041/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QtmhfNUOj4MKsF7Yn51OEn6RqOhKjGe9qH3ptDMPUV2
+#EXTINF:0 tvg-name="GE: Kavkasia" tvg-logo="http://troya.tv/images/chIcons/1596.png" tvg-rec="3", GE: Kavkasia
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1596/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1bagapCSF8p-O-RDHcrPo8hyPN0NiQUwkfpUg6pXLiIG
+#EXTINF:0 tvg-name="GE: Mtavari Arkhi HD" tvg-logo="http://troya.tv/images/chIcons/1201.png" tvg-rec="3", GE: Mtavari Arkhi HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1201/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1bUJZVdqhZQX4n_K54ooOC6PK_E-ILNkRlzPZFJ_ZiD7
+#EXTINF:0 tvg-name="GE: Maestro TV" tvg-logo="http://troya.tv/images/chIcons/1204.png" tvg-rec="3", GE: Maestro TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1204/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XcuQrUGyLeoIHzNHSsC_ERwXlhjZJSd7yDlydXkRyOX
+#EXTINF:0 tvg-name="GE: Marneuli" tvg-logo="http://troya.tv/images/chIcons/1203.png" tvg-rec="3", GE: Marneuli
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1203/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Yvew4ttWnRcamuVoKC2YISA25ddanwRxVs1O0eBzJXe
+#EXTINF:0 tvg-name="GE: Mega TV" tvg-logo="http://troya.tv/images/chIcons/2048.png" tvg-rec="0", GE: Mega TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2048/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1RzZJi7wI03ov80PiRppUyvfcJs1Knbtw-bk-oM6pMwi
+#EXTINF:0 tvg-name="GE: Marao" tvg-logo="http://troya.tv/images/chIcons/1589.png" tvg-rec="3", GE: Marao
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1589/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1bLMqFKXGeNtWjrbT2FLt0HrjxOASiFtZ32hkgUtp9yp
+#EXTINF:0 tvg-name="GE: MusicBox" tvg-logo="http://troya.tv/images/chIcons/1599.png" tvg-rec="3", GE: MusicBox
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1599/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1U5xV9IKR1c_GSZAaGz3eqBWd_aT90njEpnDeEoKnzrP
+#EXTINF:0 tvg-name="GE: Obieqtivi" tvg-logo="http://troya.tv/images/chIcons/1212.png" tvg-rec="3", GE: Obieqtivi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1212/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ZHpCJb3gLHtmm8RyZJI1irPePgjcDOmukhCcuMG41IK
+#EXTINF:0 tvg-name="GE: Odishi HD" tvg-logo="http://troya.tv/images/chIcons/1611.png" tvg-rec="0", GE: Odishi HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1611/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1X2XZinrzUhAOA1HuUHfav_PMcbpXvFSp4oHGVivlj49
+#EXTINF:0 tvg-name="GE: O2" tvg-logo="http://troya.tv/images/chIcons/2046.png" tvg-rec="0", GE: O2
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2046/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1T3lWamjJIQD9v8YYUwW5uA3aBUYsUs4ulP3DJWuPV9Z
+#EXTINF:0 tvg-name="GE: Pos TV HD" tvg-logo="http://troya.tv/images/chIcons/1601.png" tvg-rec="3", GE: Pos TV HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1601/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YnSbRe4J-Iuse8FsFTKZyM67B28R1yHJ_kO8BORu8qc
+#EXTINF:0 tvg-name="GE: Pirveli HD" tvg-logo="http://troya.tv/images/chIcons/1200.png" tvg-rec="3", GE: Pirveli HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1200/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1UAJ_UJKPsKxH5G6iBH0vw6yE5MQpBIS6SY9lfN6z2UB
+#EXTINF:0 tvg-name="GE: Palitra News" tvg-logo="http://troya.tv/images/chIcons/1208.png" tvg-rec="3", GE: Palitra News
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1208/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Sgkq5Wd7RRJQOBSsH4wzg2WBJk6P-edQxMKFcG5lPAN
+#EXTINF:0 tvg-name="GE: Parvana TV" tvg-logo="http://troya.tv/images/chIcons/2059.png" tvg-rec="0", GE: Parvana TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2059/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Yl79oTKrHbO1jftr_B6awe0M6Uu54i4OEMWTLE1LljN
+#EXTINF:0 tvg-name="GE: Puls" tvg-logo="http://troya.tv/images/chIcons/1598.png" tvg-rec="0", GE: Puls
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1598/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QESUKQGXty5nW48xGmzP5ErGjarR6HVHQWs-GBlML3n
+#EXTINF:0 tvg-name="GE: Qartuli TV" tvg-logo="http://troya.tv/images/chIcons/2039.png" tvg-rec="0", GE: Qartuli TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2039/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1TNBDUs5u-G4y_gZqnMep-mU4NSvZA2HmnPzHukI4B9e
+#EXTINF:0 tvg-name="GE: Qartuli Arkhi" tvg-logo="http://troya.tv/images/chIcons/2050.png" tvg-rec="0", GE: Qartuli Arkhi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2050/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1fa8eykN1_uZdIp1Vwakz14dLt_yZcw1l9KDKSO2F9FA
+#EXTINF:0 tvg-name="GE: Rustavi 2" tvg-logo="http://troya.tv/images/chIcons/1207.png" tvg-rec="3", GE: Rustavi 2
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1207/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1abBakVpoh3fttMjYtnOqy_FzUSMcDku6HEF9kpe3f9N
+#EXTINF:0 tvg-name="GE: Regbi TV" tvg-logo="http://troya.tv/images/chIcons/1614.png" tvg-rec="3", GE: Regbi TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1614/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XT2zTCiZnwv1e7D0vbP8ejJJDjsTIbjHkf3p-Wy3JdD
+#EXTINF:0 tvg-name="GE: Rioni" tvg-logo="http://troya.tv/images/chIcons/2239.png" tvg-rec="0", GE: Rioni
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2239/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1dSUGwFq95rmszuQyrMc_WrQFLLkLnrHLXMnrZuWpqJC
+#EXTINF:0 tvg-name="GE: Saperavi" tvg-logo="http://troya.tv/images/chIcons/1213.png" tvg-rec="0", GE: Saperavi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1213/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1fgg9K3UZ9avntSJ-UWHDmcpNtmd6guYhqtQe_SnN59b
+#EXTINF:0 tvg-name="GE: Sezoni TV" tvg-logo="http://troya.tv/images/chIcons/1609.png" tvg-rec="0", GE: Sezoni TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1609/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1flj3y0X-HHyi2GIk35QXJd_PPMOYJNz8f1930doxF70
+#EXTINF:0 tvg-name="GE: Setanta Sports 1 Georgia HD" tvg-logo="http://troya.tv/images/chIcons/1199.png" tvg-rec="3", GE: Setanta Sports 1 Georgia HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1199/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1W94-LUNvhPtqPVh5a0BevOZgmjDBlykV8jtKwI4r6OJ
+#EXTINF:0 tvg-name="GE: Setanta Sports 2 Georgia HD" tvg-logo="http://troya.tv/images/chIcons/1206.png" tvg-rec="3", GE: Setanta Sports 2 Georgia HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1206/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1dqbxRGSgHuXMBwKhXNo-7mxp9uRX2VTHd_8azfrL7YM
+#EXTINF:0 tvg-name="GE: Setanta Sports 3 Georgia HD" tvg-logo="http://troya.tv/images/chIcons/2060.png" tvg-rec="3", GE: Setanta Sports 3 Georgia HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2060/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1aRN6tBsluVwGkAv8Itc_nVfuEpzTNbRpAYg1-BvW2jr
+#EXTINF:0 tvg-name="GE: Silk Universal HD" tvg-logo="http://troya.tv/images/chIcons/1592.png" tvg-rec="3", GE: Silk Universal HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1592/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1TlBLYgE8EBGKH8Z5DCdMsEB1NxvT7iJ5OAewLQi8ki8
+#EXTINF:0 tvg-name="GE: Silk Documentary" tvg-logo="http://troya.tv/images/chIcons/1620.png" tvg-rec="3", GE: Silk Documentary
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1620/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1S98VIprU-1Kicr3_BzkyjH8iQ2nRHlA1q2ddavMFoQh
+#EXTINF:0 tvg-name="GE: Silk Kino Collection" tvg-logo="http://troya.tv/images/chIcons/1607.png" tvg-rec="3", GE: Silk Kino Collection
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1607/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1U-06ou7rHMXfkf1ECtJDaP2u4oPeBo9ZNbx-GPwWHXx
+#EXTINF:0 tvg-name="GE: Silk Kids" tvg-logo="http://troya.tv/images/chIcons/1606.png" tvg-rec="3", GE: Silk Kids
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1606/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ebuFrQUWOd9FA7YaRiJ_YGSU7hyxUMSHDqh2920TK9h
+#EXTINF:0 tvg-name="GE: Silk Kino Holiwood" tvg-logo="http://troya.tv/images/chIcons/1608.png" tvg-rec="3", GE: Silk Kino Holiwood
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1608/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1cSe27kSQQZyieovfuGeoTxtapFddm5mvZZIJrAVJj22
+#EXTINF:0 tvg-name="GE: Samefo Arkhi HD" tvg-logo="http://troya.tv/images/chIcons/1613.png" tvg-rec="0", GE: Samefo Arkhi HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1613/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1a0MfCCzkRc5ZvrlrtYT8T24L1ogoB0tdlhkGjAfrtG4
+#EXTINF:0 tvg-name="GE: Meteo24" tvg-logo="http://troya.tv/images/chIcons/2052.png" tvg-rec="0", GE: Meteo24
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2052/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1S1zJP-fpIeSeNyW0pFXXERXsqUmNen79B6H_U6UPjGC
+#EXTINF:0 tvg-name="GE: Shoni TV" tvg-logo="http://troya.tv/images/chIcons/2054.png" tvg-rec="0", GE: Shoni TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2054/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ZvKNFahFDxTg4DT9FNa98HMimtdRTmc-X7F54mpasDf
+#EXTINF:0 tvg-name="GE: Sdasu TV" tvg-logo="http://troya.tv/images/chIcons/2049.png" tvg-rec="0", GE: Sdasu TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2049/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1b7OMWszYEEi5dUmv6fkwwK-gPns2duKV8rL58_rn_BK
+#EXTINF:0 tvg-name="GE: Stereo Plus" tvg-logo="http://troya.tv/images/chIcons/2055.png" tvg-rec="0", GE: Stereo Plus
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2055/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ahM8ZeqMtDyF0LWg6MSFCW3qPjpyHg3lvSFXjvbSUm4
+#EXTINF:0 tvg-name="GE: BeyoncePlus HD" tvg-logo="http://troya.tv/images/chIcons/1209.png" tvg-rec="0", GE: BeyoncePlus HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1209/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1fhy0dVNu7Fq3W1AoBFrEbkwpNwsDvzvgilDRo4XIpct
+#EXTINF:0 tvg-name="GE: Trialeti" tvg-logo="http://troya.tv/images/chIcons/1198.png" tvg-rec="3", GE: Trialeti
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1198/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XlsYkSX76mLL6OjAC3X0kyoZP3MSoMca9Q4P4gb-8L0
+#EXTINF:0 tvg-name="GE: TV25" tvg-logo="http://troya.tv/images/chIcons/1210.png" tvg-rec="3", GE: TV25
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1210/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YRjpx_jOgsYm_EVCZndn_3Lf6ZseucxJQRORnTcpoGq
+#EXTINF:0 tvg-name="GE: TV Monitoringi" tvg-logo="http://troya.tv/images/chIcons/2038.png" tvg-rec="0", GE: TV Monitoringi
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2038/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Up0_YgQbHlggSdvvqkKqgj5cRmqfaSDXfGhv18EDCjQ
+#EXTINF:0 tvg-name="GE: TV Mze" tvg-logo="http://troya.tv/images/chIcons/2053.png" tvg-rec="0", GE: TV Mze
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2053/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XczP5XppVfgSevI6UixRw-Q5mKnI3c5oSBEmkDGMGpm
+#EXTINF:0 tvg-name="GE: TokTV" tvg-logo="http://troya.tv/images/chIcons/2043.png" tvg-rec="0", GE: TokTV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2043/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1T58xrk0W0E-4geip6t2c249g8rEJ8fKR4TXIj_HirD5
+#EXTINF:0 tvg-name="GE: TV 12" tvg-logo="http://troya.tv/images/chIcons/2056.png" tvg-rec="0", GE: TV 12
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2056/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1SpuhhmbLXHTTkOSPzDIxQi17TuCDylPIJqAH-Ok3mUp
+#EXTINF:0 tvg-name="GE: Tafu TV" tvg-logo="http://troya.tv/images/chIcons/2058.png" tvg-rec="0", GE: Tafu TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2058/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1enFxTI3ZSytAAf5PDR7lyAH2VXNPTiRHxsYI0zsbiYn
+#EXTINF:0 tvg-name="GE: TVC" tvg-logo="http://troya.tv/images/chIcons/2240.png" tvg-rec="0", GE: TVC
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2240/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1d0iRqiQ9bGsnJA3XHNyglR-p0n3VX9a5gyxKk1lT7M3
+#EXTINF:0 tvg-name="GE: Digi+ HD" tvg-logo="http://troya.tv/images/chIcons/2317.png" tvg-rec="3", GE: Digi+ HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2317/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1SLVcAcrnyptPrfD9_N2brbDeHfZYrtNZyub3G3R3syC
+#EXTINF:0 tvg-name="GE: Digi+ Family HD" tvg-logo="http://troya.tv/images/chIcons/2315.png" tvg-rec="3", GE: Digi+ Family HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2315/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1XSCtWpOGwCKVTZCl03VAYkOTT3lVHhsqgfwGm7JiWvO
+#EXTINF:0 tvg-name="GE: Digi+ Cinema HD" tvg-logo="http://troya.tv/images/chIcons/2316.png" tvg-rec="3", GE: Digi+ Cinema HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2316/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1eGmI6Ioal-i44-NpU2gQST6RvUxbcYWiw5kznEyKPVc
+#EXTINF:0 tvg-name="GE: Digi+ Action HD" tvg-logo="http://troya.tv/images/chIcons/2318.png" tvg-rec="3", GE: Digi+ Action HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2318/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1aSDpnERAeZe-BLF1s1rX6BNtDlm_4oi-3cYyEN3RPqN
+#EXTINF:0 tvg-name="GE: Digi+ Drama HD" tvg-logo="http://troya.tv/images/chIcons/2319.png" tvg-rec="3", GE: Digi+ Drama HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2319/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1eiquLlfUaxluMOWP0iNyxG4aopdyc5SoyRAshJeiZdO
+#EXTINF:0 tvg-name="GE: Digi+ Horror HD" tvg-logo="http://troya.tv/images/chIcons/2320.png" tvg-rec="3", GE: Digi+ Horror HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2320/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1fqpqhcKMZ_B6gdSVDUMzA-i81WBH33TMbj4YzpHMgQL
+#EXTINF:0 tvg-name="GE: Digi+ Premiere HD" tvg-logo="http://troya.tv/images/chIcons/2321.png" tvg-rec="3", GE: Digi+ Premiere HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2321/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1d2vAXNEj3lySx0d-dDidgvP_QvsgFGD8RcLs2oatJrJ
+#EXTINF:0 tvg-name="GE: Digi+ Comedy HD" tvg-logo="http://troya.tv/images/chIcons/2322.png" tvg-rec="3", GE: Digi+ Comedy HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2322/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Vc_6O9zOjPviljvN0ObQmyPfTKkBVlvPoNPFu2SnDby
+#EXTINF:0 tvg-name="GE: DIGI+ Series HD" tvg-logo="http://troya.tv/images/chIcons/2323.png" tvg-rec="3", GE: DIGI+ Series HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2323/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1SqH260vN2f9ZmC_h64m5ZHL64ol46poit9wxZ6nbvzc
+#EXTINF:0 tvg-name="GE: Digi+ Kids HD" tvg-logo="http://troya.tv/images/chIcons/2324.png" tvg-rec="3", GE: Digi+ Kids HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2324/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QAl3Z-k3nj2t33ytVj_u4itiZw5_pa0uoN0_gD-GWHa
+#EXTINF:0 tvg-name="GE: Digi+ Music HD" tvg-logo="http://troya.tv/images/chIcons/2325.png" tvg-rec="0", GE: Digi+ Music HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2325/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1VJyHJHPdwR4Q4F9LZEMh_jOxsmmWIz9ldXMgoh_JuPr
+#EXTINF:0 tvg-name="GE: Digi+ Documentary HD" tvg-logo="http://troya.tv/images/chIcons/1493.png" tvg-rec="3", GE: Digi+ Documentary HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1493/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YykFzc08NYROrQxmfTAxUYFXpTHwwSBoAPm441oOpKg
+#EXTINF:0 tvg-name="GE: Digi+ Music 4K" tvg-logo="http://troya.tv/images/chIcons/2326.png" tvg-rec="0", GE: Digi+ Music 4K
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2326/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Yux-JC_2w7cqOoFsyYR_C4rNxEy-eaCdnN_6Vz1f3ge
+#EXTINF:0 tvg-name="GE: Digi+ 4K" tvg-logo="http://troya.tv/images/chIcons/2327.png" tvg-rec="3", GE: Digi+ 4K
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2327/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YI9QO63ll4nEm1iR7P-NPZD2q6wIwfPhTMCAaYUKR-B
+#EXTINF:0 tvg-name="GE: Digi + 4K 2" tvg-logo="http://troya.tv/images/chIcons/2328.png" tvg-rec="3", GE: Digi + 4K 2
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2328/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QwyCwJCGnkMwjlwxwyNfK9IEIdi_rxqmi2Dz74Ocj9i
+#EXTINF:0 tvg-name="GE: Comedie+ HD" tvg-logo="http://troya.tv/images/chIcons/416.png" tvg-rec="3", GE: Comedie+ HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch416/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YZZVtOUfet_0EDqdCk8vmGMKC_dCQLaIG-Lev8D-Sa8
+#EXTINF:0 tvg-name="GE: Kitchen+" tvg-logo="http://troya.tv/images/chIcons/1583.png" tvg-rec="3", GE: Kitchen+
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch1583/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1a7oTlwXOYhLv9SBco9hqQd2yU6dRuXHUQ2jbwxpCeXS
+#EXTINF:0 tvg-name="GE: Christmas + HD" tvg-logo="http://troya.tv/images/chIcons/2329.png" tvg-rec="3", GE: Christmas + HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2329/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1bd6wQ18npZIOUHlghwQ42cAUVUFQqZi2lL0JB22_FOJ
+#EXTINF:0 tvg-name="GE: Planete+ HD" tvg-logo="http://troya.tv/images/chIcons/2390.png" tvg-rec="3", GE: Planete+ HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2390/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1QQs036R8zCFp757jz-fgxSkDupS6PgpLnD17Ct0A-UR
+#EXTINF:0 tvg-name="GE: Home+ HD" tvg-logo="http://troya.tv/images/chIcons/2389.png" tvg-rec="3", GE: Home+ HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2389/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1VMs9H1QqaNEol0BDM7Q80zDh1hOQsAIYpwnKLS11UDE
+#EXTINF:0 tvg-name="GE: 1 Arkhi Sport HD" tvg-logo="http://troya.tv/images/chIcons/2822.png" tvg-rec="0", GE: 1 Arkhi Sport HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2822/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ffOu7Mr9klrbKfgqrOZ8jDL14FKV_yio4qqoQNeX1sa
+#EXTINF:0 tvg-name="GE: Argo TV HD" tvg-logo="http://troya.tv/images/chIcons/2820.png" tvg-rec="0", GE: Argo TV HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2820/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1bxc9O8PPlbczCAm5U1ViZ4FbD-emw4l_oycbGtQyWfK
+#EXTINF:0 tvg-name="GE: Akhali Formula HD" tvg-logo="http://troya.tv/images/chIcons/2816.png" tvg-rec="0", GE: Akhali Formula HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2816/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Vh4BjXPhwnSPSnYONj34rTX7SW50heg-VWn6kcL1jCC
+#EXTINF:0 tvg-name="GE: Imervizia HD" tvg-logo="http://troya.tv/images/chIcons/2819.png" tvg-rec="0", GE: Imervizia HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2819/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1ScMctcBUbV9EaQRVskVSqQWHs90JQzB8qi8K-Bpv59q
+#EXTINF:0 tvg-name="GE: Mall TV" tvg-logo="http://troya.tv/images/chIcons/2821.png" tvg-rec="0", GE: Mall TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2821/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Tuy4MTTOs-d0Ox8JBJ49qBgCYJdhKh3aLqsNYzgxF3E
+#EXTINF:0 tvg-name="GE: Parlament TV" tvg-logo="http://troya.tv/images/chIcons/2823.png" tvg-rec="0", GE: Parlament TV
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2823/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1T6m9mM4tLQm0Lt7U8iJFn3bWyjU-b1Gzc3A8OjuQWk_
+#EXTINF:0 tvg-name="GE: Starvision TV HD" tvg-logo="http://troya.tv/images/chIcons/2815.png" tvg-rec="0", GE: Starvision TV HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2815/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1c_vo-A7BXTWta4jgwbc4kQS6wsbLX-HCkoH5zAUZq_a
+#EXTINF:0 tvg-name="GE: Sfero TV HD" tvg-logo="http://troya.tv/images/chIcons/2818.png" tvg-rec="0", GE: Sfero TV HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2818/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1cYYOTLDc3P1u9RE3dB1KTQH1krcxWw5v8UA_52b8TPp
+#EXTINF:0 tvg-name="GE: TV4" tvg-logo="http://troya.tv/images/chIcons/2037.png" tvg-rec="3", GE: TV4
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2037/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YYwOgBi9Dbx4A26p2xzArSDdEUGTebPBcJUl8t3dbhA
+#EXTINF:0 tvg-name="GE: TV Plus HD" tvg-logo="http://troya.tv/images/chIcons/2817.png" tvg-rec="0", GE: TV Plus HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2817/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1YgwVEHQFZbkcvWqirxPQV78KNAY_R-tLeQhO8X0epvW
+#EXTINF:0 tvg-name="GE: Digi+ City HD" tvg-logo="http://troya.tv/images/chIcons/387.png" tvg-rec="3", GE: Digi+ City HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch387/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1Z1ISFsu2FtUBm4POyeGCjRR1gRcz27NsrbXOG3SMIUL
+#EXTINF:0 tvg-name="GE: Digi+ Hits HD" tvg-logo="http://troya.tv/images/chIcons/389.png" tvg-rec="3", GE: Digi+ Hits HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch389/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1VI6BRxe4QqZIVk8pPafJ2-zJI536QGeozlpRDuQ2v8Z
+#EXTINF:0 tvg-name="Digi+ Georgian HD" tvg-logo="http://troya.tv/images/chIcons/2814.png" tvg-rec="0", Digi+ Georgian HD
+#EXTGRP:13. Georgia
+http://8.troya.one:34000/ch2814/mono.m3u8?token=lexa82822.KUhWbHPinlH-gyjk0tLu1SbTA0yZ9v8QsuKBj8kSBSi_R1PxCt52Kw4mSZYYuqvt
+#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/HHbqT0W/2154.png",http://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2210 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Группу заблокировали
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Эта работает @TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Будет новая группа
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png",https://t.me/TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="http://epg.it999.ru/img/2079.png",Обнова в телеграм
+http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Работает @TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Эта работает @TvZaTak
+http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
+#EXT-X-ENDLIST
